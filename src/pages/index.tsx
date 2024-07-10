@@ -110,7 +110,7 @@ const Home: NextPage = () => {
       <main className="my-5">
         <AvatarEditor />
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 };
